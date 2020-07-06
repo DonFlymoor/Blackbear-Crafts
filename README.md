@@ -1,9 +1,9 @@
-# Welcome to Blakcbear Crafts
+# Welcome to Blackbear Crafts
 
 ## *This is **the** site*.
 
 ## Why buy from Blackbear Crafts?
-- Beuty
+- The Inner Wood
 - Qaulity
 - Antiquness
 - Renewable wood
