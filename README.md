@@ -1,8 +1,8 @@
-## Welcome to Blakcbear Crafts
+# Welcome to Blakcbear Crafts
 
-*This is **the** site*.
+## *This is **the** site*.
 
-# Why buy from Blackbear Crafts?
+## Why buy from Blackbear Crafts?
 - Beuty
 - Qaulity
 - Antiquness
