@@ -10,4 +10,5 @@
 - And so on
 
 > Purchase a Pint of paint
+
 > Be a Black Bear's Saint
